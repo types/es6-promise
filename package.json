@@ -1,0 +1,18 @@
+{
+  "name": "@types/es6-promise",
+  "version": "1.0.0",
+  "description": "The type definition for [es6-promise](https://github.com/jakearchibald/es6-promise).",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/types/es6-promise.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/types/es6-promise/issues"
+  },
+  "homepage": "https://github.com/types/es6-promise#readme"
+}

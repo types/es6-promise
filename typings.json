@@ -1,4 +1,4 @@
 {
   "name": "es6-promise",
-  "main": "dist/es6-promise.d.ts"
+  "main": "index.d.ts"
 }
